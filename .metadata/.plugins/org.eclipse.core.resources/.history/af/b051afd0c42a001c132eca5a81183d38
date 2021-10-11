@@ -7,7 +7,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("branch adc");
+	printf("test_main");
 	return 0;
 }
-
