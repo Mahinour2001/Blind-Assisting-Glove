@@ -1,0 +1,11 @@
+/*
+ * main.c
+ *
+ *  Created on: Oct 11, 2021
+ *      Author: user
+ */
+#include <stdio.h>
+void main()
+{
+	printf("test_main");
+}
